@@ -1,7 +1,7 @@
 <h3 align="center">
     <img alt="nlw" title="#nlw" width="300px" src=".gitProffy/nlw.svg">
     <br><br>
-   <strong><h2> :recycle: Proffy</h2>Sua plataforma de estudos online.</strong>  
+   <strong><h2> :date::pushpin: Proffy</h2>Sua plataforma de estudos online.</strong>  
     <br>
 </h3>
 
@@ -43,8 +43,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :computer: Web
 
 <h1 align="center">
-    <img alt="Landing" src="..gitProffy/web-landing.png">
-    <img alt="List" src="..gitProffy/web-list.png">
+    <img alt="Landing" src=".gitProffy/web-landing.png">
+    <img alt="List" src=".gitProffy/web-list.png">
 </h1>
 
 ## :iphone: Mobile
