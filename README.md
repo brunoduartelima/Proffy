@@ -1,7 +1,7 @@
 <h3 align="center">
     <img alt="nlw" title="#nlw" width="300px" src=".gitProffy/nlw.svg">
     <br><br>
-   <strong><h2 font-size="80px"> :date: Proffy :pushpin: </h2>Sua plataforma de estudos online.</strong>  
+   <strong><h1> :date: Proffy </h>Sua plataforma de estudos online.</strong>  
     <br>
 </h3>
 
